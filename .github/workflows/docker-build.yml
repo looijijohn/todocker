@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository2
         uses: actions/checkout@v3
 
       - name: Login to GitHub Container Registry
